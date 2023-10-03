@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(193, 234, 245);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#box{
+    background-color: rgb(233, 141, 202);
+    width: 300px;
+    height: 300px;
+    border: 20px solid yellow;
+    margin: auto;
+    border-radius: 140px;
+    padding: 100px
+}
+
+
+#circle{
+    background-color: rgb(233, 141, 202);
+    width: 300px;
+    height: 300px;
+    border: 20px solid yellow;
+    margin: auto;
+    border-radius: 300px;
+    padding: 100px
+}
+
